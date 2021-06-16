@@ -29,7 +29,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/github-3089487-2567439.png" />
 
 <br />
-<br />
 
 ### Stats:
 
