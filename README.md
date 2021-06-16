@@ -45,9 +45,11 @@
 
 <br />
 
+### Stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
 
-### Latest YouTube Videos
+### Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
 - [Flutter Challenge #9 - Boat Booking Service App](https://www.youtube.com/watch?v=n9ds-cum2io)
