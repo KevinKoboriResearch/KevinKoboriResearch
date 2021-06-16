@@ -21,9 +21,7 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
 <img align="left" alt="Microsoft SQL Server" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
-<img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
 <img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
