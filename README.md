@@ -10,7 +10,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/flutter-3521432-2944876.png" />
 <img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="Hasura" width="26px" src="https://hasura.io/docs/latest/_images/layout/hasura_logo.svg" />
+<img align="left" alt="Hasura" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*bL79wrUgRVJK6z_uSSyZCw.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
