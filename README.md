@@ -1,18 +1,14 @@
-### Hi, I'm [Kevin Kobori][website] 👋
+### Hi, I'm [Kevin Kobori][website] 🙌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkobori&langs_count=8)](https://github.com/kevinkobori/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkobori&layout=compact)](https://github.com/kevinkobori/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinkobori)](https://github.com/kevinkobori/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/kevinkobori/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/kevinkobori/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkobori&langs_count=8)](https://github.com/kevinkobori/github-readme-stats" />
 </a>
 
 
