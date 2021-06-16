@@ -16,7 +16,7 @@
 <br />
 
 ---
-# Back-end:
+#### Back-end:
 <img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/452/golang.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
@@ -26,7 +26,7 @@
 <br />
 
 ---
-# Database:
+#### Database:
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
 <img align="left" alt="Microsoft SQL Server" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
@@ -35,7 +35,7 @@
 <br />
 
 ---
-# Other Tools:
+#### Other Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/github-3089487-2567439.png" />
