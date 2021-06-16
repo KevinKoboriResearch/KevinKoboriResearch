@@ -44,14 +44,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### [<img align="left" alt="codeSTACKr | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]Latest YouTube Videos
+### Latest YouTube Videos [<img align="left" alt="codeSTACKr | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
-- [Everything New In React 18!](https://www.youtube.com/watch?v=t8E_xtofvVY)
-- [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w)
-- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
-- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
+- [Flutter Challenge #9 - Boat Booking Service App](https://www.youtube.com/watch?v=n9ds-cum2io)
+- [Flutter Challenge #8 - Super Car Website](https://www.youtube.com/watch?v=0sXkDJoJCJE&t=89s)
+- [Flutter Challenge #7 - Pass Ticket App](https://www.youtube.com/watch?v=UXw6cv9uaNk)
 <!-- YOUTUBE:END -->
 
 [more videos...][youtube]
