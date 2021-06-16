@@ -5,6 +5,14 @@
 
 <br />
 
+### Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
+
+---
+
+<br />
+
 ### Languages and Tools:
 #### Front-end:
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/flutter-3521432-2944876.png" />
@@ -40,14 +48,6 @@
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/github-3089487-2567439.png" />
 <br />
-
----
-
-<br />
-
-### Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
 
 ---
 
