@@ -6,7 +6,7 @@
 <br />
 
 ### Languages and Tools:
-# Front-end:
+#### Front-end:
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/flutter-3521432-2944876.png" />
 <img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
