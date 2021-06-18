@@ -8,8 +8,6 @@
 
 ---
 
-<br />
-
 ### Languages and Tools:
 #### Front-end:
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/flutter-3521432-2944876.png" />
