@@ -26,8 +26,8 @@
 <img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/452/golang.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
-<img align="left" alt="Hasura" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*bL79wrUgRVJK6z_uSSyZCw.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+<!-- <img align="left" alt="Hasura" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*bL79wrUgRVJK6z_uSSyZCw.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> -->
 <br />
 
 ---
