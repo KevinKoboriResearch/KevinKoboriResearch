@@ -20,14 +20,11 @@
 <img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/452/golang.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
-<!-- <img align="left" alt="Hasura" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*bL79wrUgRVJK6z_uSSyZCw.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> -->
 <br />
 
 #### Database:
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
-<img align="left" alt="Microsoft SQL Server" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
 <img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <br />
