@@ -2,7 +2,7 @@
 
 ---
 
-[#unclebob][unclebob] / [#cleanarchitecture][cleanarchitecture] / [#cleancode][cleancode] / [#TDD][TDD] / [#SOLID] / #designpatterns / #modularity / #noacoplations / #refactoring
+[#unclebob][unclebob] / [#cleanarchitecture][cleanarchitecture] / [#cleancode][cleancode] / [#TDD][TDD] / [#SOLID][SOLID] / [#designpatterns][designpatterns] / [#modularity][modularity] / #noacoplations / #refactoring
 
 ---
 
