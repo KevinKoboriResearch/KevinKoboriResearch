@@ -2,7 +2,7 @@
 
 ---
 
-#cleanarchitecture #cleancode #TDD #SOLID #designpatterns #modular #noacoplations #refactoring
+#unclebob[bob] / #cleanarchitecture / #cleancode / #TDD / #SOLID / #designpatterns / #modularity / #noacoplations / #refactoring
 
 ---
 
@@ -51,6 +51,7 @@
 [instagram]: https://www.instagram.com/kevinkobori/
 [linkedin]: https://www.linkedin.com/in/kevin-kobori-646701197/
 [snow]: https://www.snowmanlabs.com/
+[bob]: https://www.cleancoders.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
 
