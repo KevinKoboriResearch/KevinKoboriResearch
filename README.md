@@ -1,9 +1,5 @@
 ### Hi, I'm [Kevin Kobori][linkedin]. I'm Flutter Developer at [Snowman Labs][snow] [<img align="right" alt="Fluttely | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube] [<img align="right" alt="Fluttely | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin] [<img align="right" alt="Fluttely | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkobori&langs_count=8)](https://github.com/kevinkobori/github-readme-stats)
-
 ---
 
 ### Languages and Tools:
@@ -52,3 +48,8 @@
 [instagram]: https://www.instagram.com/kevinkobori/
 [linkedin]: https://www.linkedin.com/in/kevin-kobori-646701197/
 [snow]: https://www.snowmanlabs.com/
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkobori&langs_count=8)](https://github.com/kevinkobori/github-readme-stats)
+
