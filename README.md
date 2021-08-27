@@ -2,7 +2,7 @@
 
 ---
 
-[#unclebob][bob] / #cleanarchitecture / #cleancode / #TDD / #SOLID / #designpatterns / #modularity / #noacoplations / #refactoring
+[#unclebob][unclebob] / [#cleanarchitecture][cleanarchitecture] / [#cleancode][cleancode] / [#TDD][TDD] / [#SOLID] / #designpatterns / #modularity / #noacoplations / #refactoring
 
 ---
 
@@ -51,7 +51,15 @@
 [instagram]: https://www.instagram.com/kevinkobori/
 [linkedin]: https://www.linkedin.com/in/kevin-kobori-646701197/
 [snow]: https://www.snowmanlabs.com/
-[bob]: https://www.cleancoders.com/
+[unclebob]: https://www.cleancoders.com/
+[cleanarchitecture]: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+[cleancode]: https://www.cleancoders.com/series/clean-code
+[TDD]:
+[SOLID]:
+[designpatterns]:
+[modularity]:
+[noacoplations]:
+[refactoring];
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkobori&show_icons=true&theme=radical)
 
