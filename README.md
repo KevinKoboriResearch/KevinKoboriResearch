@@ -54,10 +54,10 @@
 [unclebob]: https://www.cleancoders.com/
 [cleanarchitecture]: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 [cleancode]: https://www.cleancoders.com/series/clean-code
-[TDD]:
-[SOLID]:
-[designpatterns]:
-[modularity]:
+[TDD]: https://www.cleancoders.com/series/clean-code
+[SOLID]: https://www.youtube.com/watch?v=zHiWqnTWsn4
+[designpatterns]: https://cleancoders.com/episode/clean-code-episode-25
+[modularity]: https://medium.com/hackernoon/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011
 [noacoplations]:
 [refactoring];
 
