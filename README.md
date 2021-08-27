@@ -2,7 +2,7 @@
 
 ---
 
-#cleanarchitecture
+#cleanarchitecture #cleancode #TDD #SOLID #designpatterns #modular #noacoplations #refactoring
 
 ---
 
