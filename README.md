@@ -20,7 +20,7 @@
 <br />
 
 #### Database:
-<img align="left" alt="SQLServer" width="26px" src="https://apitlab.com/wp-content/uploads/2019/09/oracle_976885.png" />
+<img align="left" alt="SQLServer" width="26px" src="https://www.professional-nvr.ru/image/cache/catalog/products/microsoft-images/ms-sql-server-logo-1200x800.png" />
 <img align="left" alt="OracleSQL" width="26px" src="hhttps://www.pikpng.com/pngl/m/409-4095243_server-clipart-sql-server-microsoft-sql-server-png.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
