@@ -30,7 +30,10 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/github-3089487-2567439.png" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
+<img align="left" alt="Bitbucket" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
+<img align="left" alt="GitLab" width="26px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
+
+
 <br />
 <br />
 
