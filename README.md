@@ -1,7 +1,7 @@
 ### Hi, I'm [Kevin Kobori][linkedin]! I'm a Flutter Developer at [Snowman Labs][snow]. [<img align="right" alt="Fluttely | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube] [<img align="right" alt="Fluttely | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin] [<img align="right" alt="Fluttely | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
-## Git Lab Link:[gitlab]  https://gitlab.com/kevinkobori
-## Bitbucket Link:[bitbucket]  https://bitbucket.org/kevinkoborisnow/
+## Git Lab Link: [gitlab]https://gitlab.com/kevinkobori
+## Bitbucket Link: [bitbucket]https://bitbucket.org/kevinkoborisnow/
 [#unclebob][unclebob] / [#cleanarchitecture][cleanarchitecture] / [#cleancode][cleancode] / [#TDD][TDD] / [#SOLID][SOLID] / [#designpatterns][designpatterns] / [#modularity][modularity] / #nocoupling / #refactoring
 
 ---
