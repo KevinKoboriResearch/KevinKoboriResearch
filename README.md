@@ -3,7 +3,7 @@
 
 ### GitLab profile: [gitlab]https://gitlab.com/kevinkobori
 ### Bitbucket profile: [bitbucket]https://bitbucket.org/kevinkoborisnow/
-[#unclebob][unclebob] / [#cleanarchitecture][cleanarchitecture] / [#cleancode][cleancode] / [#TDD][TDD] / [#SOLID][SOLID] / [#designpatterns][designpatterns] / [#modularity][modularity] / #nocoupling / #refactoring
+[#cleanarchitecture][cleanarchitecture] / [#cleancode][cleancode] / [#TDD][TDD] / [#SOLID][SOLID] / [#designpatterns][designpatterns] / [#modularity][modularity] / #nocoupling / #refactoring
 
 ---
 
