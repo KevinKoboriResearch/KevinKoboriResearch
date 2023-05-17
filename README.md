@@ -1,4 +1,4 @@
-### Hi, I'm [Kevin Kobori][linkedin] and I'm a Flutter Developer at [Snowman Labs][snow]. [<img align="right" alt="Fluttely | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube] [<img align="right" alt="Fluttely | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin] [<img align="right" alt="Fluttely | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+### Hi, I'm [Kevin Kobori][linkedin] and I'm a Flutter Developer at [Darwin Seguros][darwin]. [<img align="right" alt="Fluttely | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube] [<img align="right" alt="Fluttely | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin] [<img align="right" alt="Fluttely | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
 ### GitLab profile: [gitlab]https://gitlab.com/kevinkobori
 ### Bitbucket profile: [bitbucket]https://bitbucket.org/kevinkoborisnow/
@@ -56,6 +56,7 @@
 [instagram]: https://www.instagram.com/kevinkobori/
 [linkedin]: https://www.linkedin.com/in/kevin-kobori-646701197/
 [snow]: https://www.snowmanlabs.com/
+[darwin]: https://darwinseguros.com/
 [unclebob]: https://www.cleancoders.com/
 [cleanarchitecture]: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 [cleancode]: https://www.cleancoders.com/series/clean-code
