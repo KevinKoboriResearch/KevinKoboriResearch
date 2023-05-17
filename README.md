@@ -28,7 +28,7 @@ and I'm a Flutter Developer at [Darwin Seguros][darwin]. [<img align="right" alt
 <img align="left" alt="SQLServer" width="26px" src="https://www.professional-nvr.ru/image/cache/catalog/products/microsoft-images/ms-sql-server-logo-1200x800.png" />
 <img align="left" alt="OracleSQL" width="26px" src="https://m.media-amazon.com/images/I/41QodfboFdL.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
+<img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <br />
